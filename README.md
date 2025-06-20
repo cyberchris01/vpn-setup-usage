@@ -1,4 +1,5 @@
-![pvpmnc](https://github.com/user-attachments/assets/02313491-ebb6-475a-88e1-52ea2fca0f43)
+
+![pvpc](https://github.com/user-attachments/assets/08c22703-4d20-4bb6-a57b-228a2e713106)
 
 <h1>VPN Setup and Usage (ProtonVPN)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
